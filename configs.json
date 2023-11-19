@@ -1,0 +1,7 @@
+{
+    "dirData": "dados.json",
+    "dirShow": "disp.txt",
+    "ip_pool": [0, 250],
+    "tents": 2,
+    "timer": 5
+}
